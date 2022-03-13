@@ -1,0 +1,3 @@
+﻿  Source.cpp
+C:\Users\radio\OneDrive\Рабочий стол\Labs 14.03\10\10\Source.cpp(12,17): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+  10.vcxproj -> C:\Users\radio\OneDrive\Рабочий стол\Labs 14.03\10\Debug\10.exe
